@@ -4,7 +4,9 @@
 public class ProjectMOPA {
 
     public static void main(String[] args){
+
         System.out.println("HellosWorld");
+        System.out.println("pascal");
     }
 
 }
