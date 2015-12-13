@@ -7,7 +7,7 @@ public class ProjectMOPA {
 
         System.out.println("HellosWorld");
         System.out.println("pascal");
-        System.out.println("PENISU");
+        System.out.println("PENISUl");
     }
 
 }
