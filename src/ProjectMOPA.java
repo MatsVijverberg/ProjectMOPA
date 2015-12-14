@@ -8,7 +8,7 @@ public class ProjectMOPA {
         System.out.println("HellosWorld");
         System.out.println("pascal");
         System.out.println("PENISUl");
-        System.out.println("Mats > Pascal");
+        System.out.println("Mats > Pascal & Arnold");
     }
 
 }
