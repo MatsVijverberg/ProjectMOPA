@@ -9,6 +9,7 @@ public class ProjectMOPA {
         System.out.println("pascal");
         System.out.println("PENISUl");
         System.out.println("Mats > Pascal & Arnold & Olivier");
+        System.out.println("Kwark > Pascal & Olivier");
     }
 
 }
